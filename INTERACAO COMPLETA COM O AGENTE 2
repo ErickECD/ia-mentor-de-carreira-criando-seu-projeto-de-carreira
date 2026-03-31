@@ -1,0 +1,141 @@
+# 📄 README — Planejador de Roadmap de Carreira em Tecnologia
+
+Este repositório documenta a interação completa com o planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+
+---
+
+## 🎬 Início da Interação
+
+**Planejador:**  
+"Olá! Recebi suas informações do entrevistador.  
+Vejo que você escolheu Engenheiro de Automação / Integração de Sistemas e tem 16 horas por semana para estudar. Perfeito!  
+Vou montar agora seu plano completo personalizado..."
+
+---
+
+## 🧩 Visão do Dia a Dia
+
+Como é o trabalho de um(a) Engenheiro de Automação / Integração de Sistemas:
+
+- Criar e manter fluxos de automação entre diferentes sistemas.  
+- Integrar APIs para que plataformas conversem entre si.  
+- Configurar e monitorar ferramentas de orquestração (como n8n, Zapier, Make).  
+- Garantir que processos automatizados sejam escaláveis e seguros.  
+- Documentar integrações e dar suporte a equipes que utilizam os sistemas.  
+
+---
+
+## 🧠 Mapa de Skills
+
+**CORE SKILLS (essenciais):**  
+- Lógica de programação e manipulação de dados (JSON, SQL básico).  
+- Integração de APIs REST.  
+- Automação de processos com ferramentas low-code/no-code.  
+
+**NICE-TO-HAVE (complementares):**  
+- Conhecimentos em infraestrutura (VPS, Docker).  
+- Fundamentos de inteligência artificial aplicada a automação.  
+
+**FERRAMENTAS E TECNOLOGIAS:**  
+- n8n, Zapier, Make.  
+- Python (para scripts de apoio).  
+- Docker e VPS/Linux.  
+
+---
+
+## 📅 Roadmap de 90 Dias
+
+**ADAPTADO PARA: 16 horas/semana**
+
+### Mês 1 - Fundamentos
+**Semana 1-2:**  
+- Revisar lógica de programação e JSON.  
+- Instalar e configurar n8n em VPS.  
+
+**Semana 3-4:**  
+- Criar automações simples (ex.: integração entre e-mail e planilha).  
+- Estudar fundamentos de APIs REST.  
+
+### Mês 2 - Prática
+**Semana 5-6:**  
+- Criar automações mais complexas (ex.: chatbot integrado ao WhatsApp).  
+- Aprender SQL básico para manipulação de dados.  
+
+**Semana 7-8:**  
+- Introdução a Docker para rodar serviços.  
+- Criar automações que envolvam múltiplos sistemas (CRM + e-mail + planilha).  
+
+### Mês 3 - Portfólio e Preparação
+**Semana 9-10:**  
+- Desenvolver projeto de portfólio completo.  
+- Documentar fluxos e integrações.  
+
+**Semana 11-12:**  
+- Simular entrevistas técnicas.  
+- Publicar projeto no GitHub e LinkedIn.  
+
+---
+
+## 🚀 Projeto de Portfólio
+
+**Projeto:** Plataforma de Automação de Atendimento  
+
+**O que fazer:**  
+Criar um fluxo que integre WhatsApp, CRM e planilha de acompanhamento, automatizando o registro de clientes e envio de mensagens.  
+
+**Entregáveis:**  
+- Fluxo funcional no n8n.  
+- Documentação clara do processo.  
+- Vídeo curto demonstrando o funcionamento.  
+
+**Critérios de Aceitação:**  
+- Fluxo roda sem falhas.  
+- Dados são registrados corretamente.  
+- Documentação permite que outro usuário replique.  
+
+**Dica:** Comece simples e vá adicionando camadas de automação conforme ganha confiança.  
+
+---
+
+## 💬 Roteiro de Entrevistas
+
+**Pergunta 1:** "Você já trabalhou com automação de processos?"  
+**Como responder:** Explique seus projetos pessoais (n8n, WhatsApp, VPS) e destaque que busca aplicar isso em ambiente profissional.  
+
+**Pergunta 2:** "Como você integra sistemas diferentes?"  
+**Como responder:** Cite APIs REST, uso de JSON e ferramentas como n8n.  
+
+**Pergunta 3:** "Qual foi o maior desafio em uma automação que você criou?"  
+**Como responder:** Relate um problema real (ex.: autenticação de API) e como resolveu.  
+
+**Pergunta 4:** "Você tem experiência com bancos de dados?"  
+**Como responder:** Explique que estudou SQL básico e já manipulou dados em integrações.  
+
+**Pergunta 5:** "Como você garante a segurança em automações?"  
+**Como responder:** Mencione boas práticas: tokens seguros, controle de acesso, logs.  
+
+---
+
+## 🎓 Trilha DIO Recomendada
+
+**Trilha:** Formação Automação de Processos com n8n  
+
+**Por que essa trilha:**  
+Conecta diretamente com sua carreira escolhida, aprofunda em automação e integrações, e prepara para projetos práticos.  
+
+**Próximos passos:**  
+1. Acesse dio.me  
+2. Busque por "Formação Automação de Processos com n8n"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+## 📈 Resultados
+
+- Roadmap de 90 dias criado e adaptado para 16h/semana.  
+- Projeto de portfólio definido para validação prática.  
+- Roteiro de entrevistas estruturado para preparação.  
+- Trilha DIO recomendada para complementar estudos.  
+
+---
