@@ -1,0 +1,108 @@
+# 📄 README — Entrevistador de Carreira em Tecnologia
+
+Este repositório documenta a interação completa com o entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
+
+---
+
+## 🎬 Início da Entrevista
+
+**Entrevistador:**  
+"Olá! 👋  
+Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.  
+Preparado? Então vamos lá!  
+Para começar: o que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?"
+
+**Usuário:**  
+"Resolver problemas"
+
+---
+
+## 📝 Pergunta 2
+
+**Entrevistador:**  
+"Legal! Então você gosta de resolver problemas, ótimo ponto de partida.  
+Agora me conta: você já tem experiência na área de tecnologia ou está começando do zero?"
+
+**Usuário:**  
+"Tenho experiência sim, já fiz técnico em informática, tenho conhecimento básico em lógica de sistemas, automações com n8n, engenharia de prompt, criação de agentes que utilizam as LLM's mais conhecidas do mercado, integração de sistemas via API. Não tenho conhecimento sólido em programação, mas sei a lógica que passa em um JSON e sou formado em relações internacionais (não que isso conte muito) e sou fluente em inglês. Mas a experiência que citei acima não é de mercado de trabalho e sim estudos e contatos que tive em outros empregos. Já tive carreira na área da educação por 7 anos trabalhando com plataformas EAD."
+
+---
+
+## 📝 Pergunta 3
+
+**Entrevistador:**  
+"Entendi! Quantas horas por semana você consegue dedicar aos estudos?"
+
+**Usuário:**  
+"16h por semana"
+
+---
+
+## 📝 Pergunta 4
+
+**Entrevistador:**  
+"Perfeito, 16 horas por semana é um ótimo tempo para evoluir de forma consistente!  
+Agora me diga: no seu dia a dia, você prefere lidar mais com pessoas, dados ou código?"
+
+**Usuário:**  
+"Dados"
+
+---
+
+## 📝 Pergunta 5
+
+**Entrevistador:**  
+"Ótimo, então você prefere lidar com dados — isso já direciona bastante o caminho!  
+Agora me diga: qual é seu objetivo principal — conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?"
+
+**Usuário:**  
+"Fazer transição de carreira"
+
+---
+
+## 📝 Pergunta 6
+
+**Entrevistador:**  
+"Show! Quais assuntos ou tecnologias mais despertam seu interesse?  
+Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura..."
+
+**Usuário:**  
+"Inteligência artificial, infraestrutura e dados"
+
+---
+
+## 📝 Pergunta 7
+
+**Entrevistador:**  
+"Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?"
+
+**Usuário:**  
+"Estou fazendo um curso de automação com n8n, já sei o básico como instalar numa VPS e fazer automações básicas como agente no WhatsApp."
+
+---
+
+## 📊 Análise Final
+
+**Entrevistador:**  
+"Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você..."
+
+---
+
+## 🏆 Carreiras Sugeridas
+
+1. 🥇 **Cientista de Dados / Engenheiro de Dados** – 18/20  
+2. 🥈 **Engenheiro de Machine Learning / IA** – 17/20  
+3. 🥉 **Engenheiro de Automação / Integração de Sistemas** – 16/20  
+
+**Usuário escolheu:** 🥉 Engenheiro de Automação / Integração de Sistemas
+
+---
+
+## 📈 Resultados
+
+- Entrevista concluída com sucesso em 7 perguntas.  
+- Perfil identificado com foco em **dados, automação e inteligência artificial**.  
+- Carreira escolhida: **Engenheiro de Automação / Integração de Sistemas**.  
+- Informações transferidas para o planejador especializado (Agent 2) para criação do roadmap personalizado.  
+
+---
